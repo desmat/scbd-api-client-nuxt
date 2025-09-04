@@ -10,5 +10,5 @@ export const useGaiaApi = () => {
   // });
 
   // return gaiaApi;
-  throw Error("Not implemented");
+  throw Error("Not implemented (scbd-api-client-nuxt)");
 }
